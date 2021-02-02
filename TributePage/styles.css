@@ -4,7 +4,7 @@
   background-image: url("Malcolm.jpg");
 
   /* Set a specific height */
-  height: 100px;
+  height: 1000px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
