@@ -16,9 +16,10 @@ ul {
 
 #main {
 	text-align: center;
+	font-family: 
 }
 
-#title {
+body {
 	font-family: papyrus;
 	text-align: center;
 }
@@ -28,7 +29,7 @@ ul {
   background-image: url("malcolm.jpg");
 
   /* Set a specific height */
-  height: 500px;
+  height: 1000px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
