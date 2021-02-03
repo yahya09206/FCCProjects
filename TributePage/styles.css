@@ -7,6 +7,7 @@ ul li:before {
     background-image: url("img.png");
     background-size: contain;
     background-repeat: no-repeat;
+    background-color: #F3F3F3;
     margin-left: -35px;
     list-style: none;
 }
@@ -14,14 +15,11 @@ ul {
 	list-style: none;
 }
 
-#main {
-	text-align: center;
-	font-family: 
-}
 
 body {
 	font-family: papyrus;
 	text-align: center;
+	background-color: #F3F3F3;
 }
 /*Parallax Effect*/
 .parallax {
