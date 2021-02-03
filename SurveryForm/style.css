@@ -1,3 +1,18 @@
 div {
-	
+	border-bottom: 1px solid #efefef;
+	margin: 10px;
+	padding-bottom: 10px;
+	width: 260px;
+}
+input {
+	width: 100%;
+}
+select {
+	width: 100%;
+}
+.eat {
+	width: 100px;
+	text-align: right;
+	padding-right: 10px;
+	display: inline-block;
 }
