@@ -8,8 +8,20 @@ ul li:before {
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: -35px;
+    list-style: none;
+}
+ul {
+	list-style: none;
 }
 
+#main {
+	text-align: center;
+}
+
+#title {
+	font-family: papyrus;
+	text-align: center;
+}
 /*Parallax Effect*/
 .parallax {
   /* The image used */
