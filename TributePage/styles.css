@@ -26,7 +26,7 @@ body {
 /*Parallax Effect*/
 .parallax {
   /* The image used */
-  background-image: url("malcolm.jpg");
+  background-image: url("https://images.unsplash.com/photo-1597953877402-39fa31ef9c40?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8bWFsY29sbSUyMHh8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
 
   /* Set a specific height */
   height: 1000px;
