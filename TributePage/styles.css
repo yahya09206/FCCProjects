@@ -1,3 +1,15 @@
+/*Styles for elements*/
+ul li:before {
+    content: '';
+    display: inline-block;
+    height: 25px;
+    width: 35px;
+    background-image: url("img.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: -35px;
+}
+
 /*Parallax Effect*/
 .parallax {
   /* The image used */
@@ -12,8 +24,6 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-
 
 /* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
 @media only screen and (max-device-width: 1366px) {
